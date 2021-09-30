@@ -1,0 +1,21 @@
+.menu1{
+     list-style: none;
+    font-family: sans-serif;
+    top:10px;
+    right:30px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: black;
+}
+
+.img2{
+    height:30%;
+    width: 24%;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
+#img{
+    height: 130%;
+    width: 100%;
+}
